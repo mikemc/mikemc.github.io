@@ -22,7 +22,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 # Metadata for Open Graph and Twitter
     description          = "Michael McLaren's personal website."               # Max 160 characters show in search results
-    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    images               = ["screenshot.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
     title                = "Michael McLaren"
 
 [[params.mainMenu]]
